@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Big Data Analytics is an emerging area of interest both for business and academia. There are a lot of details around the characteristics of big data and How Apache spark eases up the job of analyzing huge amounts of data using a simple programming paradigm. In this section we shall look at understanding and implementing a simple problem using MapReduce in Pyspark. Real world problems, however, are much more complicated than this and you should be able to scale up the takeaways from our simple word count example to much bigger problems. This lesson aims to provide you with a wider understanding on MapReduce and big data computation in Apache Spark Environment. 
+Big Data Analytics is an emerging area of interest both for business and academia. There are a lot of details around the characteristics of big data and How Apache spark eases up the job of analyzing huge amounts of data using a simple programming paradigm. In this section, we will look at understanding and implementing a simple problem using MapReduce in Pyspark. Real world problems, however, are much more complicated than this and you should be able to scale up the takeaways from the simple word count example we will complete to much bigger problems. This lesson aims to provide you with a wider understanding of MapReduce and big data computation in Apache Spark Environment. 
 
 
 ## Objectives
@@ -11,7 +11,7 @@ You will be able to:
 - Understand the role of Apache Spark in Big Data analytics 
 - Get an understanding of Apache spark stack allowing abstraction of data and computation
 - Describe RDDs as fundamental units of computation in Apache spark environment
-- Get an insight into Spark's Machin Learning Library, Graph analysis library and streaming features
+- Get an insight into Spark's Machine Learning Library, Graph analysis library, and streaming features
 
 In this lesson, you are required to read the following review article: 
 
@@ -33,4 +33,4 @@ You are expected to spend around 90 - 120 minutes reading this article. It is an
 
 ## Summary
 
-In this lesson, you read the scientific article "Big data Analytics on Apache Spark", which covers the key aspects of Spark's computational environment.
+In this lesson, you read the scientific article "Big Data Analytics on Apache Spark", which covers the key aspects of Spark's computational environment. You'll now move on to working with Spark through Python.
