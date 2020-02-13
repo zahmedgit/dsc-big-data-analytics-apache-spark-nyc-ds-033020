@@ -1,15 +1,14 @@
-
 # Big Data Analytics on Apache Spark
 
 ## Introduction
 
-Big Data Analytics is an emerging area of interest both for business and academia. There are a lot of details around the characteristics of big data and how Apache Spark eases up the job of analyzing huge amounts of data using a simple programming paradigm. In this section, we will look at understanding and implementing a simple problem using MapReduce in PySpark. Real world problems, however, are much more complicated than this and you should be able to scale up the takeaways from the simple word count example we will complete to much bigger problems. This lesson aims to provide you with a wider understanding of MapReduce and big data computation in Apache Spark environment. 
+Big data analytics is an emerging area of interest both for business and academia. There are a lot of details around the characteristics of big data and how Apache Spark eases up the job of analyzing huge amounts of data using a simple programming paradigm. In this section, we will look at understanding and implementing a simple problem using MapReduce in PySpark. Real world problems, however, are much more complicated than this and you should be able to scale up the takeaways from the simple word count example we will complete to much bigger problems. This lesson aims to provide you with a wider understanding of MapReduce and big data computation in the Apache Spark environment. 
 
 
 ## Objectives
 You will be able to:
 
-- Describe the role of Apache Spark in Big Data analytics 
+- Describe the role of Apache Spark in Big data analytics 
 - List some of the Spark functionalities 
 - Describe the role of RDDs in spark 
 
